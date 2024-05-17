@@ -1,5 +1,5 @@
-Změny:
--oprava enemy scriptů 
--přidání scén menu a smrt
--vylepšení pohybu
--začal jsem animovat, ale kvuli chybě nedodělal
+Změny:<br>
+-oprava enemy scriptů <br>
+-přidání scén menu a smrt<br>
+-vylepšení pohybu<br>
+-začal jsem animovat, ale kvuli chybě nedodělal<br>
